@@ -1,10 +1,13 @@
 body{
     background-color: #161A13;
     color: #B6E693;
+    font-family:Arial, sans-serif;
 }
 header{
     background-color: #94A2F2;
     color: #3948a8;
+    text-align: center;
+    padding: 30px
 }
 main{
     background-color: #FAF0AA;
