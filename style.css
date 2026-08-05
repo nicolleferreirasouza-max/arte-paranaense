@@ -7,17 +7,15 @@ header{
     background-color: #94A2F2;
     color: #3948a8;
     text-align: center;
-    padding: 30px
+    padding: 30px;
 }
-main{
-    background-color: #FAF0AA;
-    color:#FABF82;
+h1 {
+font-size: 36px;
 }
-section{
-    background-color:#436d49;
-    color: #699b5c;
+h2 {
+COLOR: #A6C1B9;
 }
-footer{
-    background-color:aliceblue;
-    color: #3948a8;
+P {
+    font-size: 18PX;
+    line-height: 1.6;
 }
