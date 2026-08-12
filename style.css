@@ -19,3 +19,26 @@ P {
     font-size: 18PX;
     line-height: 1.6;
 }
+main {
+    width: 80%;
+    margin:auto;
+}
+section {
+    background-color: #161A13;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin:auto;
+    border-radius: 12px;
+}
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: #3c742e;
+    margin-top: 8px;
+}
