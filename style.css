@@ -2,6 +2,7 @@ body{
     background-color: #161A13;
     color: #B6E693;
     font-family:Arial, sans-serif;
+    margin: 0;
 }
 header{
     background-color: #264123;
@@ -19,6 +20,23 @@ P {
     font-size: 18PX;
     line-height: 1.6;
 }
+nav {
+    margin-top: 20px;
+}
+nav a {
+    color:white
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #A6C1B9;
+}
+
 main {
     width: 80%;
     margin:auto;
@@ -41,4 +59,21 @@ figcaption {
     font-size: 14px;
     color: #79a16f;
     margin-top: 8px;
+}
+card {
+    background-color:#B6E693;
+    padding: 15px;
+    margin: 15px o;
+    border-left: 6px solid #28531d;
+    border-radius: 10px;
+}
+card h3 {
+    margin-top: o;
+}
+footer {
+    background-color: #79a16f;
+    color:#264123
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
