@@ -1,30 +1,36 @@
-body{
+body {
     background-color: #161A13;
     color: #B6E693;
-    font-family:Arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
 }
-header{
+
+header {
     background-color: #264123;
     color: #3c742e;
     text-align: center;
     padding: 30px;
 }
+
 h1 {
-font-size: 36px;
+    font-size: 36px;
 }
+
 h2 {
-COLOR: #A6C1B9;
+    color: #A6C1B9;
 }
+
 P {
     font-size: 18PX;
     line-height: 1.6;
 }
+
 nav {
     margin-top: 20px;
 }
+
 nav a {
-    color:white
+    color: white;
     text-decoration: none;
     background-color: white;
     padding: 10px 15px;
@@ -39,40 +45,46 @@ nav a:hover {
 
 main {
     width: 80%;
-    margin:auto;
+    margin: auto;
 }
+
 section {
     background-color: #161A13;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
 }
+
 img {
     width: 100%;
     max-width: 600px;
     display: block;
-    margin:auto;
+    margin: auto;
     border-radius: 12px;
 }
+
 figcaption {
     text-align: center;
     font-size: 14px;
     color: #79a16f;
     margin-top: 8px;
 }
-card {
-    background-color:#B6E693;
+
+.card {
+    background-color: #B6E693;
     padding: 15px;
-    margin: 15px o;
+    margin: 15px 0;
     border-left: 6px solid #28531d;
     border-radius: 10px;
 }
-card h3 {
-    margin-top: o;
+
+.card h3 {
+    margin-top: 0;
 }
+
 footer {
     background-color: #79a16f;
-    color:#264123
+    color: #264123;
     text-align: center;
     padding: 20px;
     margin-top: 30px;
