@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #A6C1B9;
+    background-color: #adcf9d;
 }
 
 main {
@@ -71,7 +71,7 @@ figcaption {
 }
 
 .card {
-    background-color: #B6E693;
+    background-color: #77ad51;
     padding: 15px;
     margin: 15px 0;
     border-left: 6px solid #28531d;
