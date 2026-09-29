@@ -101,3 +101,9 @@ button{
 button:hover{
     background-color: #3c742e;
 }
+
+.curtur {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
