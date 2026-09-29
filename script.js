@@ -1,5 +1,5 @@
-const botoesCurtir = document.querySelectorAll(".curtir");
-botoesCurtir.forEach(function(botaoCurtir){
+const botaoCurtir = document.querySelectorAll(".curtir");
+botaoCurtir.forEach(function(botaoCurtir){
     let curtiu = false;
     botaoCurtir.addEventListener("click", curtir);
     function curtir(){
